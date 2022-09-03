@@ -1,0 +1,3 @@
+[submodule "docs/tut_lab/lv0"]
+	path = docs/tut_lab/lv0
+	url = git@github.com:N2Sys-EDU/Lab0-Documentation.git
