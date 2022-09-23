@@ -1,5 +1,5 @@
 * [Class Lab](/tut_lab/README.md)
-    * [Lv0.前置技能掌握](/tut_lab/lv0/README.md)
+    * [Lv0.前置技能](/tut_lab/lv0/README.md)
         * [Git&Github](/tut_lab/lv0/Git&Github.md)
         * [CMake的基本使用](/tut_lab/lv0/cmake.md)
-        * [Socket&Epoll编程入门](/tut_lab/lv0/Socket&Epoll编程入门.md)
+        * [Lab0-Github Classroom 入门](/tut_lab/lv0/lab0.md)
