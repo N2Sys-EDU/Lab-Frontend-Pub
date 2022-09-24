@@ -1,5 +1,5 @@
 * [Class Lab](/tut_lab/README.md)
-    * [Lv0.前置技能](/tut_lab/lv0/README.md)
-        * [Lab0-Github Classroom 入门](/tut_lab/lv0/lab0.md)
+    * [Lab 0: 开发工具入门](/tut_lab/lv0/README.md)
+        * [Lab 任务](/tut_lab/lv0/lab0.md)
         * [相关阅读: CMake的基本使用](/tut_lab/lv0/cmake.md)
         * [相关阅读: Git&Github](/tut_lab/lv0/Git&Github.md)
