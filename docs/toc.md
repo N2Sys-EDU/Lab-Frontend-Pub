@@ -5,6 +5,4 @@
         * [相关阅读: Git&Github](/tut_lab/lv0/Git&Github.md)
     * [Lab 1: 自己实现一个myFTP协议](/tut_lab/lv1/README.md)
         * [Lab 任务](/tut_lab/lv1/1.myftp.md)
-        * [myFTP技术规范](/tut_lab/lv1/2.specifications.md)
-        * [Lab 测试与分数](/tut_lab/lv1/3.test.md)
         * [相关阅读: Socket&Epoll编程](/tut_lab/lv1/Socket&Epoll编程入门.md)
