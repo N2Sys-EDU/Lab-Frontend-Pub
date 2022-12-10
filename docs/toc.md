@@ -11,3 +11,6 @@
         * [Lab 任务](/tut_lab/lv2/Lab2.md)
     * [Lab3: 自己实现一个支持 DV 算法与 NAT 功能的路由器](/tut_lab/lv3/README.md)
         * [Lab 任务](/tut_lab/lv3/lab3.md)  
+    * [Lab4: 自己实现一个支持简单转发与老化的交换机](/tut_lab/lv4/README.md)
+        * [Lab 任务](/tut_lab/lv4/lab4.md)  
+
