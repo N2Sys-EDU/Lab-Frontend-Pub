@@ -37,7 +37,7 @@
 
 > 本节摘自*南京大学 计算机科学与技术系 计算机系统基础 课程实验*
 
-如果你在实验过程中遇到了困难, 并打算向我们寻求帮助, 请先阅读提问的![智慧这篇文章](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md).
+如果你在实验过程中遇到了困难, 并打算向我们寻求帮助, 请先阅读提问的[智慧这篇文章](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md).
 
 如果你发现了实验讲义和材料的错误或者对实验内容有疑问或建议, 请通过邮件的方式联系郭俊毅(jeremyguo#pku.edu.cn)
 
