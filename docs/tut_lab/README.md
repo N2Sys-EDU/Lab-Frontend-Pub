@@ -43,14 +43,19 @@
 
 ## 实验环境
 
-1. 本实验基于Ubuntu 20.04 (x86架构) 设计
-    1. Mac M1/M2：参考每个实验的**其他系统**一节
-    2. Mac Intel：建议直接使用我们提供的docker镜像
-    3. 其他Linux发行版（x86架构）：都可以正常使用
-    4. Windows：不建议使用，在Windows环境中进行的开发，我们不负责进行问题解决
-2. 提供环境的docker镜像，具体docker的使用方法请自行学习
+本实验基于Ubuntu 20.04 (x86架构) 设计
 
-To be continue ...
+关于各种不同的操作系统作为开发环境：
+1. Mac M1/M2：参考每个实验的**其他系统**一节
+2. Mac Intel：建议直接使用我们提供的docker镜像
+3. 其他Linux发行版（x86架构）：都可以正常使用
+4. Windows：不建议使用，在Windows环境中进行的开发，我们不负责进行问题解决，建议在Windows下直接使用docker，并且我们不对Windows docker的问题作出任何回答。
+
+### Docker镜像
+
+
+
+### 如何从Ubuntu配置一个开发环境
 
 ## 文档更新日志
 
