@@ -5,4 +5,4 @@
 [submodule "docs/tut_lab/lv1"]
 	path = docs/tut_lab/lv1
 	url = git@github.com:N2Sys-EDU/Lab1-Documentation.git
-	branch = main
+	branch = lab1-2023
