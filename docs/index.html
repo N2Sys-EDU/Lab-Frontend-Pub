@@ -31,12 +31,16 @@
       href="//npm.elemecdn.com/katex@latest/dist/katex.min.css"
     />
     <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
+    <script src="//cdn.jsdelivr.net/npm/mermaid@9.4.3/dist/mermaid.min.js"></script>
   </head>
   <body>
     <div id="app"></div>
 
     <script>
       // Docsify Configuration
+      var num = 0;
+      mermaid.initialize({ startOnLoad: false });
       window.$docsify = {
         name: "PKU网络课程实践",
         repo: "https://github.com/N2Sys-EDU/Lab-Frontend",
@@ -57,7 +61,20 @@
         },
         loadFooter: 'footer.md',
         auto2top: true,
+        markdown: {
+            renderer: {
+              code: function(code, lang) {
+                if (lang === "mermaid") {
+                  return (
+                    '<div class="mermaid">' + mermaid.render('mermaid-svg-' + num++, code) + "</div>"
+                  );
+                }
+                return this.origin.code.apply(this, arguments);
+              }
+            }
+          }
       };
+
     </script>
 
     <!-- Required -->
