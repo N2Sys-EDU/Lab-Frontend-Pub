@@ -6,20 +6,19 @@
 
 本Lab分为一个预备阶段以及四个主要阶段
 
-0. Lab0: 我们希望你至少对epoll编程以及CMake的使用有一点基础
+0. Lab0: 我们希望你至少对Git以及CMake的使用有一点基础
 1. Lab1: 在应用层实现一个简单的myftp协议(注意这里为了简化，并没有实现FTP协议，我们自行定义了一个成为myftp的协议)
-2. Lab2:  
-3. Lab3:  
-4. Lab4:  
+2. Lab2: 在传输层实现一个基于UDP的可靠传输协议
+3. Lab3: 基于eBPF的网络功能
+4. Lab4: 基于ns3的网络模拟实验
 5. LabX:  
 
 ## 技术
 
-在开始完成该系列Lab之前,我们会在Lv0中简单介绍该Lab需要使用到的基本的技术
+在开始完成该系列Lab之前,我们会在Lab0中简单介绍该Lab需要使用到的基本的技术
 
-1. Github和Gitd的基本使用
-2. 基于Epoll的Socket编程
-3. CMake的基本使用方法
+1. GitHub和Git的基本使用
+2. CMake的基本使用方法
 
 同时有一些知识我们希望你在开始本系列Lab之前至少有一些基本的了解:
 
@@ -36,11 +35,11 @@
 
 ## 如何求助
 
-> 本节摘自*南京大学 计算机科学与技术系 计算机系统基础 课程实验*
+本课程的实验采用Piazza平台进行答疑，所有提问都以匿名发帖的形式向全班同学公开。因此，在对Lab进行提问前，建议先浏览相应对答疑，可能你的问题已经在其他同学的提问帖中得到了解答。如果你还没有注册Piazza/加入课程，请点击[这个链接](https://piazza.com/pku.edu.cn/fall2024/04834210)。
 
-如果你在实验过程中遇到了困难, 并打算向我们寻求帮助, 请先阅读提问的[智慧这篇文章](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md).
+如果你在实验过程中遇到了困难，在互联网上寻求解决方法前，可以参考[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)这篇文章。
 
-如果你发现了实验讲义和材料的错误或者对实验内容有疑问或建议, 请通过邮件的方式联系郭俊毅(jeremyguo#pku.edu.cn)
+如果你发现了实验讲义和材料的错误或者对实验内容有疑问或建议，请通过邮件的方式联系郭俊毅(jeremyguo@pku.edu.cn)。
 
 ## 实验环境
 
