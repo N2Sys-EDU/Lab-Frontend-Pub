@@ -3,6 +3,8 @@
         * [Lab 任务](/tut_lab/lv0/lab0.md)
         * [相关阅读: CMake的基本使用](/tut_lab/lv0/cmake.md)
         * [相关阅读: Git&Github](/tut_lab/lv0/Git&Github.md)
+        * [Lab3 (ebpf) 简介](/tut_lab/lv0/ebpf_introduction.md)
+        * [Lab4 (ns-3) 简介](/tut_lab/lv0/ns3_introduction.md)
     * [Lab 1: 自己实现一个myFTP协议](/tut_lab/lv1/README.md)
         * [Lab 任务](/tut_lab/lv1/1.myftp.md)
         * [相关阅读: Socket&Epoll编程](/tut_lab/lv1/Socket&Epoll编程入门.md)
