@@ -7,6 +7,6 @@
         * [Lab 任务](/tut_lab/lv1/1.myftp.md)
         * [相关阅读: Socket&Epoll编程](/tut_lab/lv1/Socket&Epoll编程入门.md)
         * [相关阅读：Pthreads](/tut_lab/lv1/pthreads.md)
-
-
+    * [Lab 2: 实现一个基于UDP的可靠传输协议](/tut_lab/lv2/README.md)
+        * [Lab 任务](/tut_lab/lv2/Lab2.md)
 

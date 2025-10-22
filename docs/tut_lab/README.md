@@ -8,7 +8,7 @@
 
 0. Lab0: 我们希望你至少对Git以及CMake的使用有一点基础
 1. Lab1: 在应用层实现一个简单的FTP协议，注意这里为了简少工作量，并没有要求大家实现完整FTP协议，我们自行定义了一个叫做myftp的协议。
-2. Lab2: TODO
+2. Lab2: 实现一个基于UDP的可靠传输协议RTP
 3. Lab3: TODO
 4. Lab4: TODO
 5. LabX:  
