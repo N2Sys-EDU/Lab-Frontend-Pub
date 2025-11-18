@@ -9,6 +9,6 @@
         * [相关阅读：Pthreads](/tut_lab/lv1/pthreads.md)
     * [Lab 2: 实现一个基于UDP的可靠传输协议](/tut_lab/lv2/README.md)
         * [Lab 任务](/tut_lab/lv2/Lab2.md)
-    * [Lab 3: 基于ebpf的VPN和NAT](/tut_lab/lv3/README.md)
+    * [Lab 3: 基于eBPF的VPN和NAT](/tut_lab/lv3/README.md)
         * [Lab 任务](/tut_lab/lv3/lab3.md)
 
