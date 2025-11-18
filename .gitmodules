@@ -11,3 +11,4 @@
 [submodule "docs/tut_lab/lv3"]
 	path = docs/tut_lab/lv3
 	url = https://github.com/N2Sys-EDU/Lab3-Documentation.git
+	branch = ebpf
