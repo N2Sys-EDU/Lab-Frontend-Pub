@@ -11,4 +11,6 @@
         * [Lab 任务](/tut_lab/lv2/Lab2.md)
     * [Lab 3: 基于eBPF的VPN和NAT](/tut_lab/lv3/README.md)
         * [Lab 任务](/tut_lab/lv3/lab3.md)
+    * [Lab 4: ns3网络模拟器](/tut_lab/lv4/README.md)
+        * [Lab 任务](/tut_lab/lv4/lab4.md)
 
