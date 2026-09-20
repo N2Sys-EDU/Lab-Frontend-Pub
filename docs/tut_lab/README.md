@@ -8,8 +8,8 @@
 
 0. Lab0: 我们希望你至少对Git以及CMake的使用有一点基础
 1. Lab1: 在应用层实现一个简单的FTP协议，注意这里为了简少工作量，并没有要求大家实现完整FTP协议，我们自行定义了一个叫做myftp的协议。
-2. Lab2: 实现一个基于UDP的可靠传输协议RTP
-3. Lab3: 自己实现一个NAT和代理
+2. Lab2: TODO
+3. Lab3: TODO
 4. Lab4: TODO
 5. LabX:  
 
@@ -35,7 +35,7 @@
 
 ## 如何求助
 
-本课程的实验采用Piazza平台进行答疑，所有提问都以匿名发帖的形式向全班同学公开。因此，在对Lab进行提问前，建议先浏览相应对答疑，可能你的问题已经在其他同学的提问帖中得到了解答。如果你还没有注册Piazza/加入课程，请点击[这个链接](https://piazza.com/pku.edu.cn/fall2024/04834210)。
+本课程的实验采用Piazza平台进行答疑，所有提问都以匿名发帖的形式向全班同学公开。因此，在对Lab进行提问前，建议先浏览相应对答疑，可能你的问题已经在其他同学的提问帖中得到了解答。如果你还没有注册Piazza/加入课程，请点击[这个链接](https://piazza.com/pku.edu.cn/fall2026/04834210)。
 
 如果你在实验过程中遇到了困难，在互联网上寻求解决方法前，可以参考[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)这篇文章。
 
