@@ -1,6 +1,7 @@
 * [Class Lab](/tut_lab/README.md)
     * [Lab 0: 开发工具入门](/tut_lab/lv0/README.md)
         * [Lab 任务](/tut_lab/lv0/lab0.md)
+        * [相关阅读: CLab 使用教程](/tut_lab/lv0/Clab.md)
         * [相关阅读: CMake的基本使用](/tut_lab/lv0/cmake.md)
         * [相关阅读: Git&Github](/tut_lab/lv0/Git&Github.md)
     * [Lab 1: 自己实现一个myFTP协议](/tut_lab/lv1/README.md)
